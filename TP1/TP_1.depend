@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1522525928 source:c:\users\admin\desktop\projects\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1522523694 source:c:\users\admin\desktop\projects\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522524896 c:\users\admin\desktop\projects\tp_1\funciones.h
+
+1522792566 source:c:\test\mponti\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1522792868 source:c:\test\mponti\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1522787610 c:\test\mponti\tp_1\funciones.h
+
+1523209584 source:c:\users\nano\desktop\github\programacion1y-laboratorio1\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523209672 source:c:\users\nano\desktop\github\programacion1y-laboratorio1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523208073 c:\users\nano\desktop\github\programacion1y-laboratorio1\tp_1\funciones.h
+
+1523380291 source:d:\mecon\utn - tecnicatura\github\programacion1y-laboratorio1\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1523379621 source:d:\mecon\utn - tecnicatura\github\programacion1y-laboratorio1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523379631 d:\mecon\utn - tecnicatura\github\programacion1y-laboratorio1\tp_1\funciones.h
+
+1523648200 source:c:\github\programacion1y-laboratorio1\tp_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"matematica.h"
+
+1523647795 source:c:\github\programacion1y-laboratorio1\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matematica.h"
+	"funciones.h"
+
+1523647991 c:\github\programacion1y-laboratorio1\tp_1\funciones.h
+
+1523478859 c:\github\programacion1y-laboratorio1\tp_1\matematica.h
+
+1523478635 source:c:\github\programacion1y-laboratorio1\tp_1\matematica.c
+	<stdio.h>
+
